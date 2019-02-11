@@ -1,13 +1,15 @@
 name: example-environment
 channels:
+  - anaconda
   - conda-forge
+  - pytorch
 dependencies:
-  - clustergrammer_widget
   - matplotlib
   - seaborn
   - pandas
   - numpy
   - matplotlib
+  - scikit-learn
   - sklearn
   - scipy
   - time
@@ -15,3 +17,5 @@ dependencies:
   - sys
   - csv
   - os
+pip:
+  - clustergrammer_widget
