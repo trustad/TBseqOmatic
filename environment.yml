@@ -1,0 +1,17 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - clustergrammer_widget
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
+  - matplotlib
+  - sklearn
+  - scipy
+  - time
+  - json
+  - sys
+  - csv
+  - os
