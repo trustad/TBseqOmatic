@@ -1,4 +1,4 @@
-name: example-environment
+name: EnvTBsom
 channels:
   - anaconda
   - conda-forge
@@ -17,5 +17,7 @@ dependencies:
   - sys
   - csv
   - os
-pip:
-  - clustergrammer_widget
+  - pip:
+    - clustergrammer_widget
+  - jupyter nbextension enable --py --sys-prefix widgetsnbextension
+  - jupyter nbextension enable --py --sys-prefix clustergrammer_widget
