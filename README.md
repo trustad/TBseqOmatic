@@ -8,6 +8,6 @@ I'm also begining to think that this is a very good way for me to share this dat
 
 Finally I have some hope that what I'm making here could be a more generally useful tool for the TB field, particularly if I can automate and simplify the alignment and analysis of significance steps. However for now I'm going to completely skip these steps as they are going to be time consuming and I'd rather have a functional prototype without those functions as soon as possible. 
 
-You can also access a cloud based implementation of this notebook at MyBinder.org that you can run and change on the fly without installing a single bit of software on the local computer other than an internet browser. This is still a work in progress, but for now feel free to go check it out: [![Binder](https://mybinder.org/v2/gh/trustad/TBseqOmatic/master?filepath=RNAseq%20analysis%20worksheet.ipynb)
+You can also access a cloud based implementation of this notebook at MyBinder.org that you can run and change on the fly without installing a single bit of software on the local computer other than an internet browser. This is still a work in progress, but for now feel free to go check it out: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trustad/TBseqOmatic/master?filepath=RNAseq%20analysis%20worksheet.ipynb)
 
 I'd like to get this working with Google colaboratory as well, but I still need to figure out the best way to host and share the data in that environment.
