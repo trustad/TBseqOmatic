@@ -13,4 +13,4 @@ dependencies:
   - scipy
   - time
   - pip:
-    - clustergrammer_widget
+    - clustergrammer2
